@@ -1,0 +1,144 @@
+# ============================================================
+# Raw EEG data
+# ============================================================
+
+data/
+raw_data/
+
+*.mat
+*.edf
+*.bdf
+*.set
+*.fdt
+*.vhdr
+*.vmrk
+*.eeg
+
+
+# ============================================================
+# Processed EEG data
+# ============================================================
+
+*.fif
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+
+epochs/
+epochs_common_channels/
+processed/
+intermediate/
+features/
+work/
+output/
+outputs/
+
+
+# ============================================================
+# Local project outputs
+# ============================================================
+
+logs/
+errors/
+quality_control/
+tables/
+figures/
+archive/
+github_export/
+
+
+# ============================================================
+# Keep safe public examples
+# ============================================================
+
+!outputs_example/
+!outputs_example/**
+!outputs_example/tables/
+!outputs_example/tables/**
+!outputs_example/qc/
+!outputs_example/qc/**
+
+
+# ============================================================
+# Sensitive full inventory / QC tables
+# ============================================================
+
+analysis_ready_inventory.csv
+inventory_epochs_standardized.csv
+inventory_epochs_common_channels.csv
+analysis_inventory_with_qc.csv
+excluded_records_after_qc.csv
+high_artifact_records_amplitude_qc.csv
+processing_errors.csv
+
+*_inventory.csv
+*_with_qc.csv
+*_errors.csv
+
+
+# ============================================================
+# Local configs and secrets
+# ============================================================
+
+.env
+.env.*
+config.yaml
+config.yml
+config/config.yaml
+config/config.yml
+*.secret
+*.token
+
+
+# ============================================================
+# Python
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+ENV/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+
+# ============================================================
+# Jupyter / Colab
+# ============================================================
+
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+
+# ============================================================
+# OS / editor files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+
+# ============================================================
+# Temporary files
+# ============================================================
+
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo

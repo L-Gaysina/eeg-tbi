@@ -1,0 +1,3 @@
+group,n_subjects,n_records,n_epochs_total,sfreq_values,n_channels_values,epoch_len_values
+Control,72,364,16859,[np.float64(500.0)],[np.int64(64)],[np.float64(4.0)]
+TBI,92,215,24734,[np.float64(500.0)],[np.int64(60)],[np.float64(4.0)]

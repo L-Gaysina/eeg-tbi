@@ -1,1 +1,43 @@
+# Raw EEG data
+data/
+raw_data/
+*.mat
+*.edf
+*.bdf
+*.set
+*.fdt
 
+# Processed EEG files
+*.fif
+*.h5
+*.pkl
+*.joblib
+epochs/
+epochs_common_channels/
+processed/
+work/
+output/
+outputs/
+
+# Keep curated examples
+!outputs_example/
+!outputs_example/**
+
+# Logs and local files
+logs/
+errors/
+*.log
+
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configs
+.env
+config.yaml
+config/config.yaml

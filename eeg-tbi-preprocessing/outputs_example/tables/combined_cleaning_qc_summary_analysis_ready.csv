@@ -1,0 +1,3 @@
+group,n_subjects,n_records,n_epochs,median_epochs,min_epochs,max_epochs,median_bad_channels,max_bad_channels,median_removed_ica,max_removed_ica,median_prop_rejected_ar,max_prop_rejected_ar,median_sfreq,median_epoch_len
+Control,72,363,16387,45.0,29,69,5.0,16,7.0,18,0.0,0.3555555555555555,500.0,4.0
+TBI,92,212,23832,114.0,55,175,2.0,12,5.0,16,0.0,0.2735042735042735,500.0,4.0

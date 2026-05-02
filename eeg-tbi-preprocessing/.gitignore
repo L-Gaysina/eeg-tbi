@@ -141,4 +141,6 @@ temp/
 *.tmp
 *.bak
 *.swp
-*.swo
+*.swo.DS_Store
+../.DS_Store
+../quantitative_eeg_features/

@@ -1,0 +1,3 @@
+group,qc_pass_cleaning,n_subjects,n_records,n_epochs,median_epochs,min_epochs,max_epochs,median_bad_channels,max_bad_channels,median_removed_ica,max_removed_ica,median_prop_rejected_ar,max_prop_rejected_ar
+TBI,False,3,3,98,46.0,2,50,7.0,9,9.0,17,0.6101694915254238,0.982608695652174
+TBI,True,92,212,23832,114.0,55,175,2.0,12,5.0,16,0.0,0.2735042735042735

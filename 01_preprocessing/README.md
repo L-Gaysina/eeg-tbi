@@ -4,12 +4,15 @@
 
 Репозиторий содержит код, описание методики и безопасные агрегированные примеры результатов. Сырые ЭЭГ-сигналы, полные файлы эпох, клинические метаданные и приватные пути к данным не публикуются.
 
-Этот README описывает подпроект:
+## Место в проекте
 
-```text
-eeg-tbi/eeg-tbi-preprocessing/
-```
+Этот раздел соответствует первому этапу исследования:
 
+1. [`01_preprocessing/`](../01_preprocessing/) — предобработка ЭЭГ и контроль качества.
+2. [`02_quantitative_eeg_features/`](../02_quantitative_eeg_features/) — расчёт количественных признаков ЭЭГ.
+3. [`03_machine_learning/`](../03_machine_learning/) — модели классификации и оценка информативности признаков.
+
+Основной выход этого этапа — `analysis_ready_inventory_cleaned.csv`, который используется как вход для расчёта количественных ЭЭГ-признаков в разделе [`02_quantitative_eeg_features/`](../02_quantitative_eeg_features/).
 ---
 
 ## Содержание
@@ -130,7 +133,7 @@ analysis_ready_inventory_cleaned.csv
 ## Структура подпроекта
 
 ```text
-eeg-tbi-preprocessing/
+01_preprocessing/
 │
 ├── README.md
 ├── requirements.txt
@@ -143,16 +146,12 @@ eeg-tbi-preprocessing/
     ├── README.md
     │
     ├── tables/
-    │   ├── amplitude_qc_summary_by_group.csv
     │   ├── analysis_ready_inventory_cleaned_public.csv
     │   ├── analysis_ready_inventory_cleaned_summary.csv
-    │   ├── channel_availability.csv
-    │   ├── combined_cleaning_qc_summary_analysis_ready.csv
-    │   ├── common_channels.txt
-    │   ├── control_cleaning_qc_summary.csv
     │   ├── final_cleaned_qc_summary.csv
-    │   ├── high_artifact_records_amplitude_qc_after_cleaning.csv
-    │   └── tbi_cleaning_qc_summary.csv
+    │   ├── combined_cleaning_qc_summary_analysis_ready.csv
+    │   ├── channel_availability.csv
+    │   └── common_channels.txt
     │
     └── qc/
         ├── amplitude_qc_after_cleaning.png

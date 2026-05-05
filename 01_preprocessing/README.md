@@ -12,7 +12,7 @@
 2. [`02_quantitative_eeg_features/`](../02_quantitative_eeg_features/) — расчёт количественных признаков ЭЭГ.
 3. [`03_machine_learning/`](../03_machine_learning/) — модели классификации и оценка информативности признаков.
 
-Основной выход этого этапа — `analysis_ready_inventory_cleaned.csv`, который используется как вход для расчёта количественных ЭЭГ-признаков в разделе [`02_quantitative_eeg_features/`](../02_quantitative_eeg_features/).
+
 ---
 
 ## Содержание

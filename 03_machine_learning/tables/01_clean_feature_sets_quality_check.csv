@@ -1,0 +1,10 @@
+feature_set,n_features,n_missing_from_clean,n_forbidden_inside,contains_bad_sec,contains_accumulative,contains_meta_or_gamma
+alpha_peak,15,0,0,False,False,False
+aper,31,0,0,False,False,False
+burst,40,0,0,False,False,False
+conn,172,0,0,False,False,False
+dfa,10,0,0,False,False,False
+event,14,0,0,False,False,False
+event_compact,2,0,0,False,False,False
+spec_shape,15,0,0,False,False,False
+spectral_baseline,61,0,0,False,False,False

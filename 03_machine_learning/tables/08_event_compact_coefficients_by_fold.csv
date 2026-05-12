@@ -1,0 +1,11 @@
+fold,feature,coef
+1,event__z_peak,-1.787821512934654
+1,event__propagation_ms,1.5882792133585941
+2,event__z_peak,-2.057158924438005
+2,event__propagation_ms,1.4795540755929428
+3,event__z_peak,-1.7418029481603854
+3,event__propagation_ms,1.5132365491620712
+4,event__z_peak,-2.3027868980628394
+4,event__propagation_ms,1.7305100254944086
+5,event__z_peak,-1.8204294943814618
+5,event__propagation_ms,1.5602435837959758

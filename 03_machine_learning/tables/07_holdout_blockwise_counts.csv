@@ -1,0 +1,10 @@
+validation,n_train_total,n_train_control,n_train_tbi,n_test_total,n_test_control,n_test_tbi,feature_set,n_features
+holdout,131,58,73,33,14,19,alpha_peak,15
+holdout,131,58,73,33,14,19,aper,31
+holdout,131,58,73,33,14,19,burst,40
+holdout,131,58,73,33,14,19,conn,172
+holdout,131,58,73,33,14,19,dfa,10
+holdout,131,58,73,33,14,19,event,14
+holdout,131,58,73,33,14,19,spec_shape,15
+holdout,131,58,73,33,14,19,tfr,5
+holdout,131,58,73,33,14,19,spectral_baseline,61

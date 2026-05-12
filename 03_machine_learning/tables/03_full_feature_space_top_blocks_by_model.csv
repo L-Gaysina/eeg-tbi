@@ -1,0 +1,25 @@
+model,model_ru,block,block_ru,n_features_top_n
+logreg,Логистическая регрессия,conn,Связность,172
+logreg,Логистическая регрессия,burst,Вспышки,40
+logreg,Логистическая регрессия,aper,Апериодика,31
+logreg,Логистическая регрессия,alpha_peak,Альфа-пик,15
+logreg,Логистическая регрессия,spec_shape,Форма спектра,15
+logreg,Логистическая регрессия,event,События,14
+logreg,Логистическая регрессия,dfa,DFA,10
+logreg,Логистическая регрессия,tfr,Время–частота,5
+rf,Случайный лес,conn,Связность,172
+rf,Случайный лес,burst,Вспышки,40
+rf,Случайный лес,aper,Апериодика,31
+rf,Случайный лес,alpha_peak,Альфа-пик,15
+rf,Случайный лес,spec_shape,Форма спектра,15
+rf,Случайный лес,event,События,12
+rf,Случайный лес,dfa,DFA,10
+rf,Случайный лес,tfr,Время–частота,5
+svc_rbf,SVM с RBF-ядром,conn,Связность,169
+svc_rbf,SVM с RBF-ядром,burst,Вспышки,39
+svc_rbf,SVM с RBF-ядром,aper,Апериодика,31
+svc_rbf,SVM с RBF-ядром,alpha_peak,Альфа-пик,15
+svc_rbf,SVM с RBF-ядром,spec_shape,Форма спектра,15
+svc_rbf,SVM с RBF-ядром,event,События,13
+svc_rbf,SVM с RBF-ядром,dfa,DFA,10
+svc_rbf,SVM с RBF-ядром,tfr,Время–частота,5

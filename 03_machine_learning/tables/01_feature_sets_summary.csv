@@ -1,0 +1,12 @@
+feature_set,n_features,contains_bad_sec,contains_accumulative,contains_meta_or_gamma
+alpha_peak,30,False,False,False
+aper,45,False,False,False
+bp,40,False,False,False
+bp_idx,40,False,False,False
+burst,40,False,False,False
+conn,240,False,False,False
+dfa,30,False,False,False
+event,14,False,False,False
+event_compact,2,False,False,False
+spec_shape,25,False,False,False
+tfr,25,False,False,False

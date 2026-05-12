@@ -1,0 +1,10 @@
+model,feature,n_selected_folds
+logreg,event__z_peak,5
+logreg,event__propagation_ms,4
+logreg,event__spike_to_slow_ratio,1
+rf,event__z_peak,5
+rf,event__propagation_ms,4
+rf,event__spike_to_slow_ratio,1
+svc_rbf,event__z_peak,5
+svc_rbf,event__propagation_ms,4
+svc_rbf,event__spike_to_slow_ratio,1

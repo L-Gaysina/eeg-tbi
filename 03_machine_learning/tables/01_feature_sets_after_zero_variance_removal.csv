@@ -1,0 +1,11 @@
+feature_set,n_features
+alpha_peak,15
+aper,31
+bp_idx,0
+burst,40
+conn,172
+dfa,10
+event,14
+event_compact,2
+spec_shape,15
+tfr,5

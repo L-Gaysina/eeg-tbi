@@ -1,0 +1,2 @@
+n_rows,n_columns_total,n_feature_columns,n_numeric_features,mean_missing_fraction_over_features,max_missing_fraction,n_features_with_any_missing,n_features_all_missing,n_features_zero_variance
+579,659,655,655,0.00015557225540218067,0.046632124352331605,15,0,151

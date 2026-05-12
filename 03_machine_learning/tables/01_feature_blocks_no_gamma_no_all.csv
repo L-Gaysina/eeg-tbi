@@ -1,0 +1,9 @@
+block,block_ru,n_features
+conn,Связность,176
+burst,Вспышки,100
+aper,Апериодика,31
+tfr,tfr,25
+event,События,16
+alpha_peak,Альфа-пик,15
+spec_shape,Форма спектра,15
+dfa,DFA,10

@@ -1,0 +1,3 @@
+feature,feature_ru,block,block_ru,n_models_top_n,mean_rank,best_rank,mean_importance,max_importance,models_top_n,roc_auc_oriented,hedges_g_tbi_minus_control,abs_hedges_g,q_fdr
+event__z_peak,"Пик события, z",event,События,3,1.6666666666666667,1,0.002464494569757741,0.0063909774436090696,Логистическая регрессия; Случайный лес; SVM с RBF-ядром,0.964975845410628,-2.3302479574189605,2.3302479574189605,5.748622357413093e-22
+event__propagation_ms,"Распространение, мс",event,События,1,202.0,4,-0.0010442773600668378,0.0,Логистическая регрессия,0.9412741545893721,2.2034857008326165,2.2034857008326165,5.3107976252503056e-20

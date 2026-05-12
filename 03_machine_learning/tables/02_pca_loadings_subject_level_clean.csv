@@ -1,0 +1,490 @@
+feature,feature_ru,PC1_loading,PC2_loading,abs_PC1_loading,abs_PC2_loading
+bp__band_fmin__central_alpha,Мощность · band fmin · central alpha,2.0358398786161246e-17,-4.8496464726042377e-17,2.0358398786161246e-17,4.8496464726042377e-17
+bp__band_fmin__central_beta,Мощность · band fmin · central beta,1.8579055035676763e-17,4.461120983743371e-17,1.8579055035676763e-17,4.461120983743371e-17
+bp__band_fmin__central_delta,Мощность · band fmin · central delta,1.3000080024078347e-16,-2.4594362043453074e-17,1.3000080024078347e-16,2.4594362043453074e-17
+bp__band_fmin__central_theta,Мощность · band fmin · central theta,2.342023394386246e-17,1.0219996316797236e-17,2.342023394386246e-17,1.0219996316797236e-17
+bp__band_fmin__frontal_alpha,Мощность · band fmin · frontal alpha,-5.341553911391889e-17,3.189399005148857e-17,5.341553911391889e-17,3.189399005148857e-17
+bp__band_fmin__frontal_beta,Мощность · band fmin · frontal beta,-8.826814386358781e-18,2.2472737312583808e-17,8.826814386358781e-18,2.2472737312583808e-17
+bp__band_fmin__frontal_delta,Мощность · band fmin · frontal delta,5.652881829245404e-17,8.829663066932362e-17,5.652881829245404e-17,8.829663066932362e-17
+bp__band_fmin__frontal_theta,Мощность · band fmin · frontal theta,9.029173588997578e-18,-1.1708882946294123e-17,9.029173588997578e-18,1.1708882946294123e-17
+bp__band_fmin__occipital_alpha,Мощность · band fmin · occipital alpha,2.554518005792684e-17,3.091838779146589e-17,2.554518005792684e-17,3.091838779146589e-17
+bp__band_fmin__occipital_beta,Мощность · band fmin · occipital beta,1.4279809260879377e-17,-7.670977170419804e-17,1.4279809260879377e-17,7.670977170419804e-17
+bp__band_fmin__occipital_delta,Мощность · band fmin · occipital delta,-1.1786007516565138e-17,5.5196613704460584e-17,1.1786007516565138e-17,5.5196613704460584e-17
+bp__band_fmin__occipital_theta,Мощность · band fmin · occipital theta,-3.613944883710938e-17,-4.131927973800749e-17,3.613944883710938e-17,4.131927973800749e-17
+bp__band_fmin__parietal_alpha,Мощность · band fmin · parietal alpha,4.7875533818863644e-18,1.675138013542169e-17,4.7875533818863644e-18,1.675138013542169e-17
+bp__band_fmin__parietal_beta,Мощность · band fmin · parietal beta,2.0434289570423542e-17,4.541265112049263e-17,2.0434289570423542e-17,4.541265112049263e-17
+bp__band_fmin__parietal_delta,Мощность · band fmin · parietal delta,-2.4246481054673946e-17,2.703092491944818e-17,2.4246481054673946e-17,2.703092491944818e-17
+bp__band_fmin__parietal_theta,Мощность · band fmin · parietal theta,6.383989590774583e-17,2.4203583541081883e-17,6.383989590774583e-17,2.4203583541081883e-17
+bp__band_fmin__temporal_alpha,Мощность · band fmin · temporal alpha,4.555446341828954e-18,-2.185592774066336e-17,4.555446341828954e-18,2.185592774066336e-17
+bp__band_fmin__temporal_beta,Мощность · band fmin · temporal beta,-1.1619195258365109e-17,-1.1113785394231528e-16,1.1619195258365109e-17,1.1113785394231528e-16
+bp__band_fmin__temporal_delta,Мощность · band fmin · temporal delta,-9.698014005242256e-17,-8.728031700977028e-17,9.698014005242256e-17,8.728031700977028e-17
+bp__band_fmin__temporal_theta,Мощность · band fmin · temporal theta,3.570482336901052e-17,1.0314513017326107e-16,3.570482336901052e-17,1.0314513017326107e-16
+bp__band_fmax__central_alpha,Мощность · band fmax · central alpha,-1.163460234039582e-18,6.257936545681376e-17,1.163460234039582e-18,6.257936545681376e-17
+bp__band_fmax__central_beta,Мощность · band fmax · central beta,4.67294022252411e-17,7.978656414591583e-17,4.67294022252411e-17,7.978656414591583e-17
+bp__band_fmax__central_delta,Мощность · band fmax · central delta,1.1911489937170456e-17,8.701283773950416e-18,1.1911489937170456e-17,8.701283773950416e-18
+bp__band_fmax__central_theta,Мощность · band fmax · central theta,-1.34487052200638e-17,-1.0762886663163925e-17,1.34487052200638e-17,1.0762886663163925e-17
+bp__band_fmax__frontal_alpha,Мощность · band fmax · frontal alpha,-2.3917306293803132e-17,2.7628049358795452e-17,2.3917306293803132e-17,2.7628049358795452e-17
+bp__band_fmax__frontal_beta,Мощность · band fmax · frontal beta,1.8015265582563012e-17,5.288971347007864e-17,1.8015265582563012e-17,5.288971347007864e-17
+bp__band_fmax__frontal_delta,Мощность · band fmax · frontal delta,-4.085554741334665e-17,-3.2653620750797565e-17,4.085554741334665e-17,3.2653620750797565e-17
+bp__band_fmax__frontal_theta,Мощность · band fmax · frontal theta,-1.1877504366831927e-17,-5.642513235570097e-17,1.1877504366831927e-17,5.642513235570097e-17
+bp__band_fmax__occipital_alpha,Мощность · band fmax · occipital alpha,-4.54714019042498e-17,-1.1902922354685631e-17,4.54714019042498e-17,1.1902922354685631e-17
+bp__band_fmax__occipital_beta,Мощность · band fmax · occipital beta,2.159987729491765e-17,4.5650123674956724e-17,2.159987729491765e-17,4.5650123674956724e-17
+bp__band_fmax__occipital_delta,Мощность · band fmax · occipital delta,7.282839749876989e-17,6.8115655557862425e-18,7.282839749876989e-17,6.8115655557862425e-18
+bp__band_fmax__occipital_theta,Мощность · band fmax · occipital theta,-2.51760770339052e-17,5.327753227435513e-18,2.51760770339052e-17,5.327753227435513e-18
+bp__band_fmax__parietal_alpha,Мощность · band fmax · parietal alpha,9.73723290014911e-18,3.435013523226401e-17,9.73723290014911e-18,3.435013523226401e-17
+bp__band_fmax__parietal_beta,Мощность · band fmax · parietal beta,-2.8126114926173876e-18,-1.9600375945328758e-17,2.8126114926173876e-18,1.9600375945328758e-17
+bp__band_fmax__parietal_delta,Мощность · band fmax · parietal delta,-7.575546224967416e-18,-2.5637808636408426e-17,7.575546224967416e-18,2.5637808636408426e-17
+bp__band_fmax__parietal_theta,Мощность · band fmax · parietal theta,2.531648276754321e-17,3.541112818398129e-17,2.531648276754321e-17,3.541112818398129e-17
+bp__band_fmax__temporal_alpha,Мощность · band fmax · temporal alpha,-1.1572011802733778e-17,-2.7702649693326822e-17,1.1572011802733778e-17,2.7702649693326822e-17
+bp__band_fmax__temporal_beta,Мощность · band fmax · temporal beta,-1.7704745445870873e-17,-8.624395235518105e-19,1.7704745445870873e-17,8.624395235518105e-19
+bp__band_fmax__temporal_delta,Мощность · band fmax · temporal delta,8.232422285057743e-18,-3.219002476776452e-18,8.232422285057743e-18,3.219002476776452e-18
+bp__band_fmax__temporal_theta,Мощность · band fmax · temporal theta,-2.8472839706474204e-17,-2.1800177993301662e-17,2.8472839706474204e-17,2.1800177993301662e-17
+alpha_peak__paf_hz__central,Альфа-пик · paf hz · central,0.0220947625942458,0.0002940895336837095,0.0220947625942458,0.0002940895336837095
+alpha_peak__paf_hz__frontal,Альфа-пик · paf hz · frontal,0.0082035789846812,0.004136766880219298,0.0082035789846812,0.004136766880219298
+alpha_peak__paf_hz__occipital,Альфа-пик · paf hz · occipital,0.012177358176509924,0.010551245216987174,0.012177358176509924,0.010551245216987174
+alpha_peak__paf_hz__parietal,Альфа-пик · paf hz · parietal,0.02160930569236417,0.01032496064012928,0.02160930569236417,0.01032496064012928
+alpha_peak__paf_hz__temporal,Альфа-пик · paf hz · temporal,0.034392541382767546,-0.0009652118925318592,0.034392541382767546,0.0009652118925318592
+alpha_peak__alpha_peak_amp_db__central,Альфа-пик · Альфа-пик amp db · central,0.1135788654404483,-0.050470227519861174,0.1135788654404483,0.050470227519861174
+alpha_peak__alpha_peak_amp_db__frontal,Альфа-пик · Альфа-пик amp db · frontal,0.11572671541393115,-0.061854321809381926,0.11572671541393115,0.061854321809381926
+alpha_peak__alpha_peak_amp_db__occipital,Альфа-пик · Альфа-пик amp db · occipital,0.11612378804762882,-0.06762500923553606,0.11612378804762882,0.06762500923553606
+alpha_peak__alpha_peak_amp_db__parietal,Альфа-пик · Альфа-пик amp db · parietal,0.11741812668210941,-0.06547487924932527,0.11741812668210941,0.06547487924932527
+alpha_peak__alpha_peak_amp_db__temporal,Альфа-пик · Альфа-пик amp db · temporal,0.1069650155237128,-0.038975543839388185,0.1069650155237128,0.038975543839388185
+alpha_peak__alpha_peak_db__central,Альфа-пик · Альфа-пик db · central,-0.1141534193494311,-0.051483473702857455,0.1141534193494311,0.051483473702857455
+alpha_peak__alpha_peak_db__frontal,Альфа-пик · Альфа-пик db · frontal,-0.1131925565632962,-0.03089435478269627,0.1131925565632962,0.03089435478269627
+alpha_peak__alpha_peak_db__occipital,Альфа-пик · Альфа-пик db · occipital,-0.12446384978188002,-0.04096928379081732,0.12446384978188002,0.04096928379081732
+alpha_peak__alpha_peak_db__parietal,Альфа-пик · Альфа-пик db · parietal,-0.12050692603921007,-0.04317803232610054,0.12050692603921007,0.04317803232610054
+alpha_peak__alpha_peak_db__temporal,Альфа-пик · Альфа-пик db · temporal,-0.11157903732855183,-0.06511548300474436,0.11157903732855183,0.06511548300474436
+alpha_peak__alpha_win_lo__central,Альфа-пик · alpha win lo · central,-1.968271431447723e-17,9.457609120965597e-18,1.968271431447723e-17,9.457609120965597e-18
+alpha_peak__alpha_win_lo__frontal,Альфа-пик · alpha win lo · frontal,2.3961787870029405e-17,4.161078396057963e-17,2.3961787870029405e-17,4.161078396057963e-17
+alpha_peak__alpha_win_lo__occipital,Альфа-пик · alpha win lo · occipital,-1.9648250505181683e-17,-6.560888621089066e-18,1.9648250505181683e-17,6.560888621089066e-18
+alpha_peak__alpha_win_lo__parietal,Альфа-пик · alpha win lo · parietal,-4.176432584682948e-17,-3.2287744048554285e-17,4.176432584682948e-17,3.2287744048554285e-17
+alpha_peak__alpha_win_lo__temporal,Альфа-пик · alpha win lo · temporal,-1.651369474776127e-17,-3.074165243655727e-17,1.651369474776127e-17,3.074165243655727e-17
+alpha_peak__alpha_win_hi__central,Альфа-пик · alpha win hi · central,7.935897324241479e-19,4.3990274826556796e-17,7.935897324241479e-19,4.3990274826556796e-17
+alpha_peak__alpha_win_hi__frontal,Альфа-пик · alpha win hi · frontal,-4.459043868672321e-17,-7.539453793266266e-17,4.459043868672321e-17,7.539453793266266e-17
+alpha_peak__alpha_win_hi__occipital,Альфа-пик · alpha win hi · occipital,-9.174293082185575e-18,1.2465568561288765e-17,9.174293082185575e-18,1.2465568561288765e-17
+alpha_peak__alpha_win_hi__parietal,Альфа-пик · alpha win hi · parietal,-9.663420893407244e-18,-1.840049144862364e-17,9.663420893407244e-18,1.840049144862364e-17
+alpha_peak__alpha_win_hi__temporal,Альфа-пик · alpha win hi · temporal,-3.384572341018383e-18,-2.503841994862396e-18,3.384572341018383e-18,2.503841994862396e-18
+alpha_peak__smooth_w__central,Альфа-пик · smooth w · central,2.8889961080256777e-18,-8.193413139374459e-18,2.8889961080256777e-18,8.193413139374459e-18
+alpha_peak__smooth_w__frontal,Альфа-пик · smooth w · frontal,1.2715683229350303e-17,-3.453118585335871e-18,1.2715683229350303e-17,3.453118585335871e-18
+alpha_peak__smooth_w__occipital,Альфа-пик · smooth w · occipital,-2.667312623751483e-18,-2.0156646731462026e-18,2.667312623751483e-18,2.0156646731462026e-18
+alpha_peak__smooth_w__parietal,Альфа-пик · smooth w · parietal,-1.3186363869402674e-17,-1.0234329246105493e-17,1.3186363869402674e-17,1.0234329246105493e-17
+alpha_peak__smooth_w__temporal,Альфа-пик · smooth w · temporal,9.800562110899474e-19,-1.6473937020978501e-18,9.800562110899474e-19,1.6473937020978501e-18
+spec_shape__sef95_hz__central,Форма спектра · sef95 hz · central,0.11726375682677714,-0.03775609959856095,0.11726375682677714,0.03775609959856095
+spec_shape__sef95_hz__frontal,Форма спектра · sef95 hz · frontal,0.10438975526446564,-0.03181069576497964,0.10438975526446564,0.03181069576497964
+spec_shape__sef95_hz__occipital,Форма спектра · sef95 hz · occipital,0.11038866108446913,-0.054497073784548836,0.11038866108446913,0.054497073784548836
+spec_shape__sef95_hz__parietal,Форма спектра · sef95 hz · parietal,0.1243492948540827,-0.0615017447641026,0.1243492948540827,0.0615017447641026
+spec_shape__sef95_hz__temporal,Форма спектра · sef95 hz · temporal,0.10114213781977846,0.008367938952223168,0.10114213781977846,0.008367938952223168
+spec_shape__spectral_entropy_norm__central,Форма спектра · spectral entropy norm · central,0.099670270202785,-0.0035628419032209405,0.099670270202785,0.0035628419032209405
+spec_shape__spectral_entropy_norm__frontal,Форма спектра · spectral entropy norm · frontal,0.08084719598881795,0.011728393138047313,0.08084719598881795,0.011728393138047313
+spec_shape__spectral_entropy_norm__occipital,Форма спектра · spectral entropy norm · occipital,0.11196453531235079,-0.038420151891738086,0.11196453531235079,0.038420151891738086
+spec_shape__spectral_entropy_norm__parietal,Форма спектра · spectral entropy norm · parietal,0.11447554928510187,-0.03968303186540506,0.11447554928510187,0.03968303186540506
+spec_shape__spectral_entropy_norm__temporal,Форма спектра · spectral entropy norm · temporal,0.07687119934881406,0.028799928014010975,0.07687119934881406,0.028799928014010975
+spec_shape__spectral_entropy_raw__central,Форма спектра · spectral entropy raw · central,0.09967027020278506,-0.00356284190322092,0.09967027020278506,0.00356284190322092
+spec_shape__spectral_entropy_raw__frontal,Форма спектра · spectral entropy raw · frontal,0.08084719598881794,0.011728393138047341,0.08084719598881794,0.011728393138047341
+spec_shape__spectral_entropy_raw__occipital,Форма спектра · spectral entropy raw · occipital,0.11196453531235086,-0.038420151891738065,0.11196453531235086,0.038420151891738065
+spec_shape__spectral_entropy_raw__parietal,Форма спектра · spectral entropy raw · parietal,0.11447554928510191,-0.039683031865405075,0.11447554928510191,0.039683031865405075
+spec_shape__spectral_entropy_raw__temporal,Форма спектра · spectral entropy raw · temporal,0.07687119934881403,0.028799928014011007,0.07687119934881403,0.028799928014011007
+spec_shape__fmin__central,Форма спектра · fmin · central,-9.403656922852028e-19,-2.3696540636549536e-18,9.403656922852028e-19,2.3696540636549536e-18
+spec_shape__fmin__frontal,Форма спектра · fmin · frontal,-4.9551807229101954e-18,-1.0841537450346363e-17,4.9551807229101954e-18,1.0841537450346363e-17
+spec_shape__fmin__occipital,Форма спектра · fmin · occipital,-1.4768903905864448e-18,-1.0270746654706562e-18,1.4768903905864448e-18,1.0270746654706562e-18
+spec_shape__fmin__parietal,Форма спектра · fmin · parietal,8.929950353088649e-18,1.1520947390067801e-17,8.929950353088649e-18,1.1520947390067801e-17
+spec_shape__fmin__temporal,Форма спектра · fmin · temporal,-9.101699787976212e-19,9.445513543141493e-18,9.101699787976212e-19,9.445513543141493e-18
+spec_shape__fmax__central,Форма спектра · fmax · central,-1.751743136430121e-18,2.9018864546563688e-18,1.751743136430121e-18,2.9018864546563688e-18
+spec_shape__fmax__frontal,Форма спектра · fmax · frontal,7.367603271994092e-18,1.9793528690584123e-18,7.367603271994092e-18,1.9793528690584123e-18
+spec_shape__fmax__occipital,Форма спектра · fmax · occipital,-3.671070114933533e-18,-5.770762876438105e-18,3.671070114933533e-18,5.770762876438105e-18
+spec_shape__fmax__parietal,Форма спектра · fmax · parietal,-6.244882438719439e-19,3.4797648703187374e-18,6.244882438719439e-19,3.4797648703187374e-18
+spec_shape__fmax__temporal,Форма спектра · fmax · temporal,-5.162490023440254e-18,-8.313816777343691e-18,5.162490023440254e-18,8.313816777343691e-18
+aper__fit_fmin__central,Апериодика · fit fmin · central,-3.336797278906021e-18,-3.823319895144097e-18,3.336797278906021e-18,3.823319895144097e-18
+aper__fit_fmin__frontal,Апериодика · fit fmin · frontal,-5.3093602689077334e-18,-2.2383549242869746e-18,5.3093602689077334e-18,2.2383549242869746e-18
+aper__fit_fmin__occipital,Апериодика · fit fmin · occipital,-1.3656235637341542e-18,5.249543683695652e-18,1.3656235637341542e-18,5.249543683695652e-18
+aper__fit_fmin__parietal,Апериодика · fit fmin · parietal,-1.9488491440079757e-18,2.1009792329490623e-18,1.9488491440079757e-18,2.1009792329490623e-18
+aper__fit_fmin__temporal,Апериодика · fit fmin · temporal,-2.961781104312543e-18,8.012490994211098e-18,2.961781104312543e-18,8.012490994211098e-18
+aper__fit_fmax__central,Апериодика · fit fmax · central,1.76180615553387e-18,1.0755146040585043e-17,1.76180615553387e-18,1.0755146040585043e-17
+aper__fit_fmax__frontal,Апериодика · fit fmax · frontal,-7.605445285564196e-18,-1.241191440197714e-17,7.605445285564196e-18,1.241191440197714e-17
+aper__fit_fmax__occipital,Апериодика · fit fmax · occipital,-1.1558563098131785e-18,6.266976461793529e-18,1.1558563098131785e-18,6.266976461793529e-18
+aper__fit_fmax__parietal,Апериодика · fit fmax · parietal,4.711571693941462e-18,2.5467847522462074e-18,4.711571693941462e-18,2.5467847522462074e-18
+aper__fit_fmax__temporal,Апериодика · fit fmax · temporal,-4.6792180710712694e-18,9.633681638675444e-19,4.6792180710712694e-18,9.633681638675444e-19
+aper__aperiodic_intercept_log10__central,Апериодика · Апериодикаiodic intercept log10 · central,-0.1217921395685218,-0.02686778742990505,0.1217921395685218,0.02686778742990505
+aper__aperiodic_intercept_log10__frontal,Апериодика · Апериодикаiodic intercept log10 · frontal,-0.11352555969265148,0.001985665731470026,0.11352555969265148,0.001985665731470026
+aper__aperiodic_intercept_log10__occipital,Апериодика · Апериодикаiodic intercept log10 · occipital,-0.12691724560639706,-0.03648480347406594,0.12691724560639706,0.03648480347406594
+aper__aperiodic_intercept_log10__parietal,Апериодика · Апериодикаiodic intercept log10 · parietal,-0.12944610017515903,-0.03548429813677247,0.12944610017515903,0.03548429813677247
+aper__aperiodic_intercept_log10__temporal,Апериодика · Апериодикаiodic intercept log10 · temporal,-0.11979495720202099,-0.027198797425248136,0.11979495720202099,0.027198797425248136
+aper__aperiodic_slope__central,Апериодика · Апериодикаiodic slope · central,0.09218079883860827,-0.02184839902297323,0.09218079883860827,0.02184839902297323
+aper__aperiodic_slope__frontal,Апериодика · Апериодикаiodic slope · frontal,0.08571997551110866,-0.030653656433225363,0.08571997551110866,0.030653656433225363
+aper__aperiodic_slope__occipital,Апериодика · Апериодикаiodic slope · occipital,0.09000941263973523,-0.016483748536266635,0.09000941263973523,0.016483748536266635
+aper__aperiodic_slope__parietal,Апериодика · Апериодикаiodic slope · parietal,0.10498484251610926,-0.02221721464759771,0.10498484251610926,0.02221721464759771
+aper__aperiodic_slope__temporal,Апериодика · Апериодикаiodic slope · temporal,0.095518447149563,-0.014723381313404293,0.095518447149563,0.014723381313404293
+aper__aperiodic_exponent__central,Апериодика · Апериодикаiodic exponent · central,-0.09218079883860829,0.02184839902297322,0.09218079883860829,0.02184839902297322
+aper__aperiodic_exponent__frontal,Апериодика · Апериодикаiodic exponent · frontal,-0.08571997551110865,0.030653656433225363,0.08571997551110865,0.030653656433225363
+aper__aperiodic_exponent__occipital,Апериодика · Апериодикаiodic exponent · occipital,-0.09000941263973522,0.016483748536266624,0.09000941263973522,0.016483748536266624
+aper__aperiodic_exponent__parietal,Апериодика · Апериодикаiodic exponent · parietal,-0.10498484251610923,0.022217214647597704,0.10498484251610923,0.022217214647597704
+aper__aperiodic_exponent__temporal,Апериодика · Апериодикаiodic exponent · temporal,-0.09551844714956297,0.014723381313404296,0.09551844714956297,0.014723381313404296
+aper__alpha_peak_cf_hz__central,Апериодика · Альфа-пик cf hz · central,0.007836245362962345,0.012015810454959825,0.007836245362962345,0.012015810454959825
+aper__alpha_peak_cf_hz__frontal,Апериодика · Альфа-пик cf hz · frontal,-0.03908383446673968,0.033277348615352635,0.03908383446673968,0.033277348615352635
+aper__alpha_peak_cf_hz__occipital,Апериодика · Альфа-пик cf hz · occipital,0.026157430511533422,-0.0020072820921371373,0.026157430511533422,0.0020072820921371373
+aper__alpha_peak_cf_hz__parietal,Апериодика · Альфа-пик cf hz · parietal,0.02871754427499352,-0.006588011594887279,0.02871754427499352,0.006588011594887279
+aper__alpha_peak_cf_hz__temporal,Апериодика · Альфа-пик cf hz · temporal,-0.009121462387014495,0.028811104382149618,0.009121462387014495,0.028811104382149618
+aper__alpha_peak_amp_log10__central,Апериодика · Альфа-пик amp log10 · central,-0.09875542593281153,0.10450943138094261,0.09875542593281153,0.10450943138094261
+aper__alpha_peak_amp_log10__frontal,Апериодика · Альфа-пик amp log10 · frontal,-0.09279772421664188,0.11047502647151775,0.09279772421664188,0.11047502647151775
+aper__alpha_peak_amp_log10__occipital,Апериодика · Альфа-пик amp log10 · occipital,-0.08552397604272648,0.13125394145446917,0.08552397604272648,0.13125394145446917
+aper__alpha_peak_amp_log10__parietal,Апериодика · Альфа-пик amp log10 · parietal,-0.09587573246178666,0.11895254401851796,0.09587573246178666,0.11895254401851796
+aper__alpha_peak_amp_log10__temporal,Апериодика · Альфа-пик amp log10 · temporal,-0.09326074255318417,0.09919455665405569,0.09326074255318417,0.09919455665405569
+aper__alpha_peak_width_hz__central,Апериодика · Альфа-пик width hz · central,-0.03046185102106669,0.019970547449537742,0.03046185102106669,0.019970547449537742
+aper__alpha_peak_width_hz__frontal,Апериодика · Альфа-пик width hz · frontal,-0.03139432889502526,0.018633511320377473,0.03139432889502526,0.018633511320377473
+aper__alpha_peak_width_hz__occipital,Апериодика · Альфа-пик width hz · occipital,0.0033145620236711432,-0.008121030115811112,0.0033145620236711432,0.008121030115811112
+aper__alpha_peak_width_hz__parietal,Апериодика · Альфа-пик width hz · parietal,-0.007160029746246958,0.0014774262431968479,0.007160029746246958,0.0014774262431968479
+aper__alpha_peak_width_hz__temporal,Апериодика · Альфа-пик width hz · temporal,-0.03295612561151344,0.010966280991451857,0.03295612561151344,0.010966280991451857
+aper__n_fit_points__central,Апериодика · n fit points · central,-0.0014123988856306992,-0.021608993345887142,0.0014123988856306992,0.021608993345887142
+aper__n_fit_points__frontal,Апериодика · n fit points · frontal,-6.748253040026955e-19,-7.021787418981039e-20,6.748253040026955e-19,7.021787418981039e-20
+aper__n_fit_points__occipital,Апериодика · n fit points · occipital,-9.314394498995064e-19,-3.356118380793287e-18,9.314394498995064e-19,3.356118380793287e-18
+aper__n_fit_points__parietal,Апериодика · n fit points · parietal,-3.5398246900377843e-19,-2.5252571042472215e-18,3.5398246900377843e-19,2.5252571042472215e-18
+aper__n_fit_points__temporal,Апериодика · n fit points · temporal,5.366304471973294e-19,2.9402890707189778e-18,5.366304471973294e-19,2.9402890707189778e-18
+dfa__dfa_exp__central_alpha,DFA · DFA exp · central alpha,-0.059646229378876904,0.04446173741726183,0.059646229378876904,0.04446173741726183
+dfa__dfa_exp__central_beta,DFA · DFA exp · central beta,0.005375903565769945,-0.02747457762408475,0.005375903565769945,0.02747457762408475
+dfa__dfa_exp__frontal_alpha,DFA · DFA exp · frontal alpha,-0.0654342276771331,0.04808452012819859,0.0654342276771331,0.04808452012819859
+dfa__dfa_exp__frontal_beta,DFA · DFA exp · frontal beta,0.006186995583471017,-0.03683599134581005,0.006186995583471017,0.03683599134581005
+dfa__dfa_exp__occipital_alpha,DFA · DFA exp · occipital alpha,-0.07301318301947768,0.05288933333431482,0.07301318301947768,0.05288933333431482
+dfa__dfa_exp__occipital_beta,DFA · DFA exp · occipital beta,-0.029315383143271423,-0.02146224351901093,0.029315383143271423,0.02146224351901093
+dfa__dfa_exp__parietal_alpha,DFA · DFA exp · parietal alpha,-0.06498914680312574,0.050718518585941876,0.06498914680312574,0.050718518585941876
+dfa__dfa_exp__parietal_beta,DFA · DFA exp · parietal beta,-0.018912895818499278,-0.024069679683192312,0.018912895818499278,0.024069679683192312
+dfa__dfa_exp__temporal_alpha,DFA · DFA exp · temporal alpha,-0.060518949179896794,0.04979496798717231,0.060518949179896794,0.04979496798717231
+dfa__dfa_exp__temporal_beta,DFA · DFA exp · temporal beta,0.012826215433523802,-0.0404601414503987,0.012826215433523802,0.0404601414503987
+dfa__env_fs__central_alpha,DFA · env fs · central alpha,1.0000588598654073e-20,-7.804077620443453e-19,1.0000588598654073e-20,7.804077620443453e-19
+dfa__env_fs__central_beta,DFA · env fs · central beta,5.857021648877597e-19,-6.438896037367181e-19,5.857021648877597e-19,6.438896037367181e-19
+dfa__env_fs__frontal_alpha,DFA · env fs · frontal alpha,-2.3620690983883115e-19,-1.0269251585899071e-19,2.3620690983883115e-19,1.0269251585899071e-19
+dfa__env_fs__frontal_beta,DFA · env fs · frontal beta,6.38846617963249e-19,-2.136902453027949e-19,6.38846617963249e-19,2.136902453027949e-19
+dfa__env_fs__occipital_alpha,DFA · env fs · occipital alpha,-4.210553140672703e-19,-1.8816511366683695e-19,4.210553140672703e-19,1.8816511366683695e-19
+dfa__env_fs__occipital_beta,DFA · env fs · occipital beta,-7.036619479617753e-19,4.88970463559448e-19,7.036619479617753e-19,4.88970463559448e-19
+dfa__env_fs__parietal_alpha,DFA · env fs · parietal alpha,-8.222807094988432e-19,3.1136413448839174e-19,8.222807094988432e-19,3.1136413448839174e-19
+dfa__env_fs__parietal_beta,DFA · env fs · parietal beta,2.8931333141849495e-19,-7.345882982114771e-20,2.8931333141849495e-19,7.345882982114771e-20
+dfa__env_fs__temporal_alpha,DFA · env fs · temporal alpha,-2.255676230556794e-19,2.006083717110949e-19,2.255676230556794e-19,2.006083717110949e-19
+dfa__env_fs__temporal_beta,DFA · env fs · temporal beta,1.0887327981474159e-19,1.4207884320106333e-19,1.0887327981474159e-19,1.4207884320106333e-19
+dfa__n_scales_used__central_alpha,DFA · n scales used · central alpha,-2.7740342287111673e-19,-2.3798479812681245e-20,2.7740342287111673e-19,2.3798479812681245e-20
+dfa__n_scales_used__central_beta,DFA · n scales used · central beta,-6.394730312139893e-19,-5.942615062303513e-20,6.394730312139893e-19,5.942615062303513e-20
+dfa__n_scales_used__frontal_alpha,DFA · n scales used · frontal alpha,-4.0826518644833187e-19,5.237296087603299e-20,4.0826518644833187e-19,5.237296087603299e-20
+dfa__n_scales_used__frontal_beta,DFA · n scales used · frontal beta,0.0,0.0,0.0,0.0
+dfa__n_scales_used__occipital_alpha,DFA · n scales used · occipital alpha,0.0,0.0,0.0,0.0
+dfa__n_scales_used__occipital_beta,DFA · n scales used · occipital beta,0.0,0.0,0.0,0.0
+dfa__n_scales_used__parietal_alpha,DFA · n scales used · parietal alpha,0.0,0.0,0.0,0.0
+dfa__n_scales_used__parietal_beta,DFA · n scales used · parietal beta,0.0,0.0,0.0,0.0
+dfa__n_scales_used__temporal_alpha,DFA · n scales used · temporal alpha,0.0,0.0,0.0,0.0
+dfa__n_scales_used__temporal_beta,DFA · n scales used · temporal beta,0.0,0.0,0.0,0.0
+burst__rate_per_min__central_alpha,Вспышки · rate per min · central alpha,0.04757798172570646,-0.11179680784694859,0.04757798172570646,0.11179680784694859
+burst__rate_per_min__central_beta,Вспышки · rate per min · central beta,0.004145342262338071,-0.04811555560043802,0.004145342262338071,0.04811555560043802
+burst__rate_per_min__frontal_alpha,Вспышки · rate per min · frontal alpha,0.05448393357255435,-0.11134262562830201,0.05448393357255435,0.11134262562830201
+burst__rate_per_min__frontal_beta,Вспышки · rate per min · frontal beta,-0.03499576390603371,-0.0448373048265964,0.03499576390603371,0.0448373048265964
+burst__rate_per_min__occipital_alpha,Вспышки · rate per min · occipital alpha,0.05961411175731255,-0.11500125634520669,0.05961411175731255,0.11500125634520669
+burst__rate_per_min__occipital_beta,Вспышки · rate per min · occipital beta,-0.02903714650128234,-0.026489727318937846,0.02903714650128234,0.026489727318937846
+burst__rate_per_min__parietal_alpha,Вспышки · rate per min · parietal alpha,0.05708725678667029,-0.10704242408557225,0.05708725678667029,0.10704242408557225
+burst__rate_per_min__parietal_beta,Вспышки · rate per min · parietal beta,-0.04137043846843123,-0.03983875968189042,0.04137043846843123,0.03983875968189042
+burst__rate_per_min__temporal_alpha,Вспышки · rate per min · temporal alpha,0.061584372908278805,-0.10402577985326174,0.061584372908278805,0.10402577985326174
+burst__rate_per_min__temporal_beta,Вспышки · rate per min · temporal beta,-0.003941311053962145,-0.04827165979252317,0.003941311053962145,0.04827165979252317
+burst__pct_time__central_alpha,Вспышки · pct time · central alpha,-0.03886506116059653,-0.028433048110830045,0.03886506116059653,0.028433048110830045
+burst__pct_time__central_beta,Вспышки · pct time · central beta,0.01672019703314496,-0.02732626452684845,0.01672019703314496,0.02732626452684845
+burst__pct_time__frontal_alpha,Вспышки · pct time · frontal alpha,-0.035822390018835255,-0.0253837204067147,0.035822390018835255,0.0253837204067147
+burst__pct_time__frontal_beta,Вспышки · pct time · frontal beta,-0.018012896669002364,-0.020319339145273917,0.018012896669002364,0.020319339145273917
+burst__pct_time__occipital_alpha,Вспышки · pct time · occipital alpha,-0.026904174944396887,-0.012737091762298959,0.026904174944396887,0.012737091762298959
+burst__pct_time__occipital_beta,Вспышки · pct time · occipital beta,-0.040009378798626524,-0.007128076601842383,0.040009378798626524,0.007128076601842383
+burst__pct_time__parietal_alpha,Вспышки · pct time · parietal alpha,-0.03658741687787044,-0.03341822538532973,0.03658741687787044,0.03341822538532973
+burst__pct_time__parietal_beta,Вспышки · pct time · parietal beta,-0.03163596714605752,-0.007865139565636812,0.03163596714605752,0.007865139565636812
+burst__pct_time__temporal_alpha,Вспышки · pct time · temporal alpha,-0.022808029176200926,-0.0035135105964307525,0.022808029176200926,0.0035135105964307525
+burst__pct_time__temporal_beta,Вспышки · pct time · temporal beta,0.002450324813809431,-0.05104879002378066,0.002450324813809431,0.05104879002378066
+burst__mean_amp__central_alpha,Вспышки · mean amp · central alpha,-0.11656883375170544,0.034933664002656996,0.11656883375170544,0.034933664002656996
+burst__mean_amp__central_beta,Вспышки · mean amp · central beta,-0.03917653891912929,-0.06332311588164728,0.03917653891912929,0.06332311588164728
+burst__mean_amp__frontal_alpha,Вспышки · mean amp · frontal alpha,-0.12163790517779849,0.0680424027406094,0.12163790517779849,0.0680424027406094
+burst__mean_amp__frontal_beta,Вспышки · mean amp · frontal beta,-0.06531776141570574,-0.037663956456150414,0.06531776141570574,0.037663956456150414
+burst__mean_amp__occipital_alpha,Вспышки · mean amp · occipital alpha,-0.11960647646706256,0.06590758136318317,0.11960647646706256,0.06590758136318317
+burst__mean_amp__occipital_beta,Вспышки · mean amp · occipital beta,-0.09253730111251637,-0.04151863619209498,0.09253730111251637,0.04151863619209498
+burst__mean_amp__parietal_alpha,Вспышки · mean amp · parietal alpha,-0.12746807648708075,0.04853441928825677,0.12746807648708075,0.04853441928825677
+burst__mean_amp__parietal_beta,Вспышки · mean amp · parietal beta,-0.08884519115489525,-0.06161341409556734,0.08884519115489525,0.06161341409556734
+burst__mean_amp__temporal_alpha,Вспышки · mean amp · temporal alpha,-0.12297815489113839,0.014328673241927796,0.12297815489113839,0.014328673241927796
+burst__mean_amp__temporal_beta,Вспышки · mean amp · temporal beta,-0.030194537082492593,-0.08807998486864,0.030194537082492593,0.08807998486864
+burst__mean_peak__central_alpha,Вспышки · mean peak · central alpha,-0.1189010825856922,0.019570208284624947,0.1189010825856922,0.019570208284624947
+burst__mean_peak__central_beta,Вспышки · mean peak · central beta,-0.03522457870518426,-0.0663446513986596,0.03522457870518426,0.0663446513986596
+burst__mean_peak__frontal_alpha,Вспышки · mean peak · frontal alpha,-0.12461077349370359,0.05591184028425357,0.12461077349370359,0.05591184028425357
+burst__mean_peak__frontal_beta,Вспышки · mean peak · frontal beta,-0.06448584924601916,-0.045097243753631555,0.06448584924601916,0.045097243753631555
+burst__mean_peak__occipital_alpha,Вспышки · mean peak · occipital alpha,-0.12321087134418175,0.04671754047347264,0.12321087134418175,0.04671754047347264
+burst__mean_peak__occipital_beta,Вспышки · mean peak · occipital beta,-0.09393322838161418,-0.0484230417522044,0.09393322838161418,0.0484230417522044
+burst__mean_peak__parietal_alpha,Вспышки · mean peak · parietal alpha,-0.13054700358028254,0.03418409083538302,0.13054700358028254,0.03418409083538302
+burst__mean_peak__parietal_beta,Вспышки · mean peak · parietal beta,-0.08623613714737277,-0.0671851253713539,0.08623613714737277,0.0671851253713539
+burst__mean_peak__temporal_alpha,Вспышки · mean peak · temporal alpha,-0.12167638801321803,0.011443744590452127,0.12167638801321803,0.011443744590452127
+burst__mean_peak__temporal_beta,Вспышки · mean peak · temporal beta,-0.023487287232914794,-0.09409541633622232,0.023487287232914794,0.09409541633622232
+tfr__value__central_tfr_alpha_cv,tfr · value · central tfr alpha cv,0.014499768852922923,-0.08355265950981035,0.014499768852922923,0.08355265950981035
+tfr__value__central_tfr_mean_alpha,tfr · value · central tfr mean alpha,-0.04539805061510201,-0.10255611484792629,0.04539805061510201,0.10255611484792629
+tfr__value__central_tfr_mean_beta,tfr · value · central tfr mean beta,-0.042700759142005114,-0.10150643568936545,0.042700759142005114,0.10150643568936545
+tfr__value__central_tfr_mean_delta,tfr · value · central tfr mean delta,-0.048916506212701064,-0.113390618217527,0.048916506212701064,0.113390618217527
+tfr__value__central_tfr_mean_theta,tfr · value · central tfr mean theta,-0.04384309128486414,-0.10331387035808544,0.04384309128486414,0.10331387035808544
+tfr__value__frontal_tfr_alpha_cv,tfr · value · frontal tfr alpha cv,0.009786837777376638,-0.09110224761532966,0.009786837777376638,0.09110224761532966
+tfr__value__frontal_tfr_mean_alpha,tfr · value · frontal tfr mean alpha,-0.043010685268293096,-0.09817962619376619,0.043010685268293096,0.09817962619376619
+tfr__value__frontal_tfr_mean_beta,tfr · value · frontal tfr mean beta,-0.041522029747344764,-0.0995013619042168,0.041522029747344764,0.0995013619042168
+tfr__value__frontal_tfr_mean_delta,tfr · value · frontal tfr mean delta,-0.04184716806166655,-0.10010006463130644,0.04184716806166655,0.10010006463130644
+tfr__value__frontal_tfr_mean_theta,tfr · value · frontal tfr mean theta,-0.04174779834793409,-0.09914697986464081,0.04174779834793409,0.09914697986464081
+tfr__value__occipital_tfr_alpha_cv,tfr · value · occipital tfr alpha cv,-0.01994633237304743,-0.10846168169643013,0.01994633237304743,0.10846168169643013
+tfr__value__occipital_tfr_mean_alpha,tfr · value · occipital tfr mean alpha,-0.05567938301366819,-0.1110174678009321,0.05567938301366819,0.1110174678009321
+tfr__value__occipital_tfr_mean_beta,tfr · value · occipital tfr mean beta,-0.04871826808884094,-0.10890102308486425,0.04871826808884094,0.10890102308486425
+tfr__value__occipital_tfr_mean_delta,tfr · value · occipital tfr mean delta,-0.06976272434059536,-0.1309709093916933,0.06976272434059536,0.1309709093916933
+tfr__value__occipital_tfr_mean_theta,tfr · value · occipital tfr mean theta,-0.05824490152506172,-0.12208596780426846,0.05824490152506172,0.12208596780426846
+tfr__value__parietal_tfr_alpha_cv,tfr · value · parietal tfr alpha cv,-0.010680224825353283,-0.103441764608104,0.010680224825353283,0.103441764608104
+tfr__value__parietal_tfr_mean_alpha,tfr · value · parietal tfr mean alpha,-0.057358877421818576,-0.11703135290644409,0.057358877421818576,0.11703135290644409
+tfr__value__parietal_tfr_mean_beta,tfr · value · parietal tfr mean beta,-0.04948518189598469,-0.11197650748742664,0.04948518189598469,0.11197650748742664
+tfr__value__parietal_tfr_mean_delta,tfr · value · parietal tfr mean delta,-0.069415272410382,-0.1380129968432736,0.069415272410382,0.1380129968432736
+tfr__value__parietal_tfr_mean_theta,tfr · value · parietal tfr mean theta,-0.05645095868270895,-0.12247458022369478,0.05645095868270895,0.12247458022369478
+tfr__value__temporal_tfr_alpha_cv,tfr · value · temporal tfr alpha cv,0.0006417944080699587,-0.09407531303814937,0.0006417944080699587,0.09407531303814937
+tfr__value__temporal_tfr_mean_alpha,tfr · value · temporal tfr mean alpha,-0.04584163937148335,-0.10266854313841374,0.04584163937148335,0.10266854313841374
+tfr__value__temporal_tfr_mean_beta,tfr · value · temporal tfr mean beta,-0.043204580087682194,-0.10247626209546604,0.043204580087682194,0.10247626209546604
+tfr__value__temporal_tfr_mean_delta,tfr · value · temporal tfr mean delta,-0.044045785168821516,-0.10340187411358934,0.044045785168821516,0.10340187411358934
+tfr__value__temporal_tfr_mean_theta,tfr · value · temporal tfr mean theta,-0.04326431665071747,-0.10139860922483812,0.04326431665071747,0.10139860922483812
+conn__n_roi_used__coh_alpha,Связность · n roi used · coh alpha,0.0,0.0,0.0,0.0
+conn__n_roi_used__coh_beta,Связность · n roi used · coh beta,0.0,0.0,0.0,0.0
+conn__n_roi_used__coh_delta,Связность · n roi used · coh delta,0.0,0.0,0.0,0.0
+conn__n_roi_used__coh_theta,Связность · n roi used · coh theta,0.0,0.0,0.0,0.0
+conn__n_roi_used__dtf_alpha,Связность · n roi used · dtf alpha,0.0,0.0,0.0,0.0
+conn__n_roi_used__dtf_beta,Связность · n roi used · dtf beta,0.0,0.0,0.0,0.0
+conn__n_roi_used__dtf_delta,Связность · n roi used · dtf delta,0.0,0.0,0.0,0.0
+conn__n_roi_used__dtf_theta,Связность · n roi used · dtf theta,0.0,0.0,0.0,0.0
+conn__n_roi_used__imcoh_alpha,Связность · n roi used · imcoh alpha,0.0,0.0,0.0,0.0
+conn__n_roi_used__imcoh_beta,Связность · n roi used · imcoh beta,0.0,0.0,0.0,0.0
+conn__n_roi_used__imcoh_delta,Связность · n roi used · imcoh delta,0.0,0.0,0.0,0.0
+conn__n_roi_used__imcoh_theta,Связность · n roi used · imcoh theta,0.0,0.0,0.0,0.0
+conn__n_roi_used__pdc_alpha,Связность · n roi used · pdc alpha,0.0,0.0,0.0,0.0
+conn__n_roi_used__pdc_beta,Связность · n roi used · pdc beta,0.0,0.0,0.0,0.0
+conn__n_roi_used__pdc_delta,Связность · n roi used · pdc delta,0.0,0.0,0.0,0.0
+conn__n_roi_used__pdc_theta,Связность · n roi used · pdc theta,0.0,0.0,0.0,0.0
+conn__n_roi_used__plv_alpha,Связность · n roi used · plv alpha,0.0,0.0,0.0,0.0
+conn__n_roi_used__plv_beta,Связность · n roi used · plv beta,0.0,0.0,0.0,0.0
+conn__n_roi_used__plv_delta,Связность · n roi used · plv delta,0.0,0.0,0.0,0.0
+conn__n_roi_used__plv_theta,Связность · n roi used · plv theta,0.0,0.0,0.0,0.0
+conn__n_roi_used__wpli_alpha,Связность · n roi used · wpli alpha,0.0,0.0,0.0,0.0
+conn__n_roi_used__wpli_beta,Связность · n roi used · wpli beta,0.0,0.0,0.0,0.0
+conn__n_roi_used__wpli_delta,Связность · n roi used · wpli delta,0.0,0.0,0.0,0.0
+conn__n_roi_used__wpli_theta,Связность · n roi used · wpli theta,0.0,0.0,0.0,0.0
+conn__mean_strength__coh_alpha,Связность · mean strength · coh alpha,-0.056012516217879345,0.11795290646610387,0.056012516217879345,0.11795290646610387
+conn__mean_strength__coh_beta,Связность · mean strength · coh beta,0.007404021442784529,0.06763562987277139,0.007404021442784529,0.06763562987277139
+conn__mean_strength__coh_delta,Связность · mean strength · coh delta,-0.04155403137662766,-0.06082316286089636,0.04155403137662766,0.06082316286089636
+conn__mean_strength__coh_theta,Связность · mean strength · coh theta,-0.006857273278305391,-0.0067526787721098065,0.006857273278305391,0.0067526787721098065
+conn__mean_strength__dtf_alpha,Связность · mean strength · dtf alpha,-0.05250946530041474,0.06520728011832647,0.05250946530041474,0.06520728011832647
+conn__mean_strength__dtf_beta,Связность · mean strength · dtf beta,-0.03852359669001312,0.01613848354006973,0.03852359669001312,0.01613848354006973
+conn__mean_strength__dtf_delta,Связность · mean strength · dtf delta,-0.0517669662539354,-0.02049652912383781,0.0517669662539354,0.02049652912383781
+conn__mean_strength__dtf_theta,Связность · mean strength · dtf theta,-0.05605296460007959,0.02414757806826053,0.05605296460007959,0.02414757806826053
+conn__mean_strength__imcoh_alpha,Связность · mean strength · imcoh alpha,-0.06557207193881706,0.0773352893950186,0.06557207193881706,0.0773352893950186
+conn__mean_strength__imcoh_beta,Связность · mean strength · imcoh beta,-0.024644139697886352,-0.017831659151827325,0.024644139697886352,0.017831659151827325
+conn__mean_strength__imcoh_delta,Связность · mean strength · imcoh delta,-0.04058612564147617,-0.09477135292924208,0.04058612564147617,0.09477135292924208
+conn__mean_strength__imcoh_theta,Связность · mean strength · imcoh theta,-0.04400236075054776,-0.017638194170222266,0.04400236075054776,0.017638194170222266
+conn__mean_strength__pdc_alpha,Связность · mean strength · pdc alpha,0.002114599690092324,-0.014509705277402071,0.002114599690092324,0.014509705277402071
+conn__mean_strength__pdc_beta,Связность · mean strength · pdc beta,-0.0011745482042691726,-0.017974864419927315,0.0011745482042691726,0.017974864419927315
+conn__mean_strength__pdc_delta,Связность · mean strength · pdc delta,-0.004187382440085086,0.011134240335980665,0.004187382440085086,0.011134240335980665
+conn__mean_strength__pdc_theta,Связность · mean strength · pdc theta,-0.00697908860402998,0.001181243284586466,0.00697908860402998,0.001181243284586466
+conn__mean_strength__plv_alpha,Связность · mean strength · plv alpha,-0.04422953925019454,0.14187686970635113,0.04422953925019454,0.14187686970635113
+conn__mean_strength__plv_beta,Связность · mean strength · plv beta,-0.014468380889487103,0.09723953009847927,0.014468380889487103,0.09723953009847927
+conn__mean_strength__plv_delta,Связность · mean strength · plv delta,-0.0036265526193252776,0.06863357938229914,0.0036265526193252776,0.06863357938229914
+conn__mean_strength__plv_theta,Связность · mean strength · plv theta,0.007053654379948965,0.08919535132577805,0.007053654379948965,0.08919535132577805
+conn__mean_strength__wpli_alpha,Связность · mean strength · wpli alpha,-0.05856024557574286,0.07126031936750962,0.05856024557574286,0.07126031936750962
+conn__mean_strength__wpli_beta,Связность · mean strength · wpli beta,-0.011645793583747571,-0.0010698130525717293,0.011645793583747571,0.0010698130525717293
+conn__mean_strength__wpli_delta,Связность · mean strength · wpli delta,-0.031639114579040443,-0.09210624028454534,0.031639114579040443,0.09210624028454534
+conn__mean_strength__wpli_theta,Связность · mean strength · wpli theta,-0.03897897480758696,-0.02145228907990842,0.03897897480758696,0.02145228907990842
+conn__clustering__coh_alpha,Связность · clustering · coh alpha,-0.048204034001326265,0.09586352326530867,0.048204034001326265,0.09586352326530867
+conn__clustering__coh_beta,Связность · clustering · coh beta,-0.006870190285739979,-0.0022620622463988193,0.006870190285739979,0.0022620622463988193
+conn__clustering__coh_delta,Связность · clustering · coh delta,-0.03964243667896804,-0.07537461134080573,0.03964243667896804,0.07537461134080573
+conn__clustering__coh_theta,Связность · clustering · coh theta,-0.019773286535995322,-0.04617630875377692,0.019773286535995322,0.04617630875377692
+conn__clustering__dtf_alpha,Связность · clustering · dtf alpha,-0.014711965835870863,0.007113472488401793,0.014711965835870863,0.007113472488401793
+conn__clustering__dtf_beta,Связность · clustering · dtf beta,0.005756825643239221,-0.025150527699624677,0.005756825643239221,0.025150527699624677
+conn__clustering__dtf_delta,Связность · clustering · dtf delta,-0.0067129155086582066,-0.01797941182914744,0.0067129155086582066,0.01797941182914744
+conn__clustering__dtf_theta,Связность · clustering · dtf theta,-0.004060212567355235,0.017377108240688156,0.004060212567355235,0.017377108240688156
+conn__clustering__imcoh_alpha,Связность · clustering · imcoh alpha,-0.04185308806511313,0.05162441738490968,0.04185308806511313,0.05162441738490968
+conn__clustering__imcoh_beta,Связность · clustering · imcoh beta,-0.0016687818856555062,0.023901372724808603,0.0016687818856555062,0.023901372724808603
+conn__clustering__imcoh_delta,Связность · clustering · imcoh delta,-0.013323396543572761,-0.03835216704064008,0.013323396543572761,0.03835216704064008
+conn__clustering__imcoh_theta,Связность · clustering · imcoh theta,0.0009962361986597446,-0.010529878436749041,0.0009962361986597446,0.010529878436749041
+conn__clustering__pdc_alpha,Связность · clustering · pdc alpha,-0.01320833464851603,-0.05865121796467766,0.01320833464851603,0.05865121796467766
+conn__clustering__pdc_beta,Связность · clustering · pdc beta,-0.012776263085616016,-0.07000220442875156,0.012776263085616016,0.07000220442875156
+conn__clustering__pdc_delta,Связность · clustering · pdc delta,-0.04007399283827537,-0.050184670243942964,0.04007399283827537,0.050184670243942964
+conn__clustering__pdc_theta,Связность · clustering · pdc theta,-0.03322419655036774,-0.06054840840313376,0.03322419655036774,0.06054840840313376
+conn__clustering__plv_alpha,Связность · clustering · plv alpha,-0.028319175753339525,0.09634517859708211,0.028319175753339525,0.09634517859708211
+conn__clustering__plv_beta,Связность · clustering · plv beta,-0.010146949460590436,0.03602894314863446,0.010146949460590436,0.03602894314863446
+conn__clustering__plv_delta,Связность · clustering · plv delta,0.0005312281053861463,0.017972902022500487,0.0005312281053861463,0.017972902022500487
+conn__clustering__plv_theta,Связность · clustering · plv theta,-0.0016612133859729373,0.01663174386188816,0.0016612133859729373,0.01663174386188816
+conn__clustering__wpli_alpha,Связность · clustering · wpli alpha,-0.047751475695250886,0.06768432614145328,0.047751475695250886,0.06768432614145328
+conn__clustering__wpli_beta,Связность · clustering · wpli beta,-0.010190984175365047,0.01269623200653637,0.010190984175365047,0.01269623200653637
+conn__clustering__wpli_delta,Связность · clustering · wpli delta,-0.029066929613069576,-0.07818321351167354,0.029066929613069576,0.07818321351167354
+conn__clustering__wpli_theta,Связность · clustering · wpli theta,-0.006168151929022463,-0.02342468080669459,0.006168151929022463,0.02342468080669459
+conn__global_efficiency__coh_alpha,Связность · global efficiency · coh alpha,-0.05047956074658073,0.11511097782970582,0.05047956074658073,0.11511097782970582
+conn__global_efficiency__coh_beta,Связность · global efficiency · coh beta,0.01770718958419132,0.056411815026012196,0.01770718958419132,0.056411815026012196
+conn__global_efficiency__coh_delta,Связность · global efficiency · coh delta,-0.03049666046094677,-0.053867242959637476,0.03049666046094677,0.053867242959637476
+conn__global_efficiency__coh_theta,Связность · global efficiency · coh theta,-0.00429120738600517,0.00033725429900551956,0.00429120738600517,0.00033725429900551956
+conn__global_efficiency__dtf_alpha,Связность · global efficiency · dtf alpha,-0.05069728108051517,0.05848808581805941,0.05069728108051517,0.05848808581805941
+conn__global_efficiency__dtf_beta,Связность · global efficiency · dtf beta,-0.04196493422821864,0.020252026126800042,0.04196493422821864,0.020252026126800042
+conn__global_efficiency__dtf_delta,Связность · global efficiency · dtf delta,-0.05207027557161581,-0.0221476390595336,0.05207027557161581,0.0221476390595336
+conn__global_efficiency__dtf_theta,Связность · global efficiency · dtf theta,-0.05221523009395021,0.020081493493978832,0.05221523009395021,0.020081493493978832
+conn__global_efficiency__imcoh_alpha,Связность · global efficiency · imcoh alpha,-0.0662444927601724,0.07900858934405906,0.0662444927601724,0.07900858934405906
+conn__global_efficiency__imcoh_beta,Связность · global efficiency · imcoh beta,-0.02419601986752886,-0.018028332902617274,0.02419601986752886,0.018028332902617274
+conn__global_efficiency__imcoh_delta,Связность · global efficiency · imcoh delta,-0.04038565817054002,-0.09482074977700793,0.04038565817054002,0.09482074977700793
+conn__global_efficiency__imcoh_theta,Связность · global efficiency · imcoh theta,-0.04608072845038805,-0.01505283281612505,0.04608072845038805,0.01505283281612505
+conn__global_efficiency__pdc_alpha,Связность · global efficiency · pdc alpha,-0.0005617453710564297,0.06359791854532142,0.0005617453710564297,0.06359791854532142
+conn__global_efficiency__pdc_beta,Связность · global efficiency · pdc beta,-0.008209976859748351,0.08106518244894122,0.008209976859748351,0.08106518244894122
+conn__global_efficiency__pdc_delta,Связность · global efficiency · pdc delta,0.03880417253358882,0.03584103699106368,0.03880417253358882,0.03584103699106368
+conn__global_efficiency__pdc_theta,Связность · global efficiency · pdc theta,0.012731262538060317,0.05365514178640827,0.012731262538060317,0.05365514178640827
+conn__global_efficiency__plv_alpha,Связность · global efficiency · plv alpha,-0.036223330706801275,0.14070500485544835,0.036223330706801275,0.14070500485544835
+conn__global_efficiency__plv_beta,Связность · global efficiency · plv beta,0.0008181732233575745,0.08350637127121625,0.0008181732233575745,0.08350637127121625
+conn__global_efficiency__plv_delta,Связность · global efficiency · plv delta,0.013192311921722745,0.06458980297617789,0.013192311921722745,0.06458980297617789
+conn__global_efficiency__plv_theta,Связность · global efficiency · plv theta,0.01384927769922739,0.0914991420563447,0.01384927769922739,0.0914991420563447
+conn__global_efficiency__wpli_alpha,Связность · global efficiency · wpli alpha,-0.059531223603458305,0.07196335942600127,0.059531223603458305,0.07196335942600127
+conn__global_efficiency__wpli_beta,Связность · global efficiency · wpli beta,-0.011312595104860624,-0.0042247478191571935,0.011312595104860624,0.0042247478191571935
+conn__global_efficiency__wpli_delta,Связность · global efficiency · wpli delta,-0.02965284922257198,-0.09049820693217431,0.02965284922257198,0.09049820693217431
+conn__global_efficiency__wpli_theta,Связность · global efficiency · wpli theta,-0.04018355022296245,-0.02038625301716011,0.04018355022296245,0.02038625301716011
+conn__modularity__coh_alpha,Связность · modularity · coh alpha,0.05055790097469587,-0.04450231616897181,0.05055790097469587,0.04450231616897181
+conn__modularity__coh_beta,Связность · modularity · coh beta,0.03683519300632527,0.022915307579159588,0.03683519300632527,0.022915307579159588
+conn__modularity__coh_delta,Связность · modularity · coh delta,0.039203397876678106,0.05017923616138032,0.039203397876678106,0.05017923616138032
+conn__modularity__coh_theta,Связность · modularity · coh theta,0.04138671586134959,0.023201244209037405,0.04138671586134959,0.023201244209037405
+conn__modularity__dtf_alpha,Связность · modularity · dtf alpha,-0.0017082735261826944,0.01915231293740654,0.0017082735261826944,0.01915231293740654
+conn__modularity__dtf_beta,Связность · modularity · dtf beta,0.037357501523807735,0.012249306903896896,0.037357501523807735,0.012249306903896896
+conn__modularity__dtf_delta,Связность · modularity · dtf delta,0.019410224662906973,-0.01044258742195442,0.019410224662906973,0.01044258742195442
+conn__modularity__dtf_theta,Связность · modularity · dtf theta,0.004025457220472857,0.009214086005298374,0.004025457220472857,0.009214086005298374
+conn__modularity__imcoh_alpha,Связность · modularity · imcoh alpha,-0.027923095246265323,0.007212863689990605,0.027923095246265323,0.007212863689990605
+conn__modularity__imcoh_beta,Связность · modularity · imcoh beta,-0.008258106094649897,0.022837699892259828,0.008258106094649897,0.022837699892259828
+conn__modularity__imcoh_delta,Связность · modularity · imcoh delta,-0.00021279326495997564,-0.015536414978513774,0.00021279326495997564,0.015536414978513774
+conn__modularity__imcoh_theta,Связность · modularity · imcoh theta,-0.0115409249347668,0.001401176232913734,0.0115409249347668,0.001401176232913734
+conn__modularity__pdc_alpha,Связность · modularity · pdc alpha,0.008951587982172495,0.003968383341498786,0.008951587982172495,0.003968383341498786
+conn__modularity__pdc_beta,Связность · modularity · pdc beta,0.006304175353401748,0.013186897375602196,0.006304175353401748,0.013186897375602196
+conn__modularity__pdc_delta,Связность · modularity · pdc delta,-0.005353112307760326,0.007802035501687286,0.005353112307760326,0.007802035501687286
+conn__modularity__pdc_theta,Связность · modularity · pdc theta,0.006916753450208679,0.0038451146181648324,0.006916753450208679,0.0038451146181648324
+conn__modularity__plv_alpha,Связность · modularity · plv alpha,0.061380539626284966,-0.041045924046441806,0.061380539626284966,0.041045924046441806
+conn__modularity__plv_beta,Связность · modularity · plv beta,0.02732312683982618,0.0094547736698005,0.02732312683982618,0.0094547736698005
+conn__modularity__plv_delta,Связность · modularity · plv delta,0.04609645927111296,0.04652878883012413,0.04609645927111296,0.04652878883012413
+conn__modularity__plv_theta,Связность · modularity · plv theta,0.05146104935008486,0.0007368413156028089,0.05146104935008486,0.0007368413156028089
+conn__modularity__wpli_alpha,Связность · modularity · wpli alpha,-0.01963204551289907,0.010076587658651902,0.01963204551289907,0.010076587658651902
+conn__modularity__wpli_beta,Связность · modularity · wpli beta,0.009601689454439318,0.00482876634237672,0.009601689454439318,0.00482876634237672
+conn__modularity__wpli_delta,Связность · modularity · wpli delta,-0.015639504844638587,-0.008855991840746551,0.015639504844638587,0.008855991840746551
+conn__modularity__wpli_theta,Связность · modularity · wpli theta,0.0022667006583318642,-0.0030634088780872523,0.0022667006583318642,0.0030634088780872523
+conn__small_worldness__coh_alpha,Связность · small worldness · coh alpha,0.03952795380133367,-0.022585727225440555,0.03952795380133367,0.022585727225440555
+conn__small_worldness__coh_beta,Связность · small worldness · coh beta,0.009483180092877267,0.026227156297878803,0.009483180092877267,0.026227156297878803
+conn__small_worldness__coh_delta,Связность · small worldness · coh delta,0.035582330295785634,0.031477999909776386,0.035582330295785634,0.031477999909776386
+conn__small_worldness__coh_theta,Связность · small worldness · coh theta,0.0050754506739414075,0.016750844374995848,0.0050754506739414075,0.016750844374995848
+conn__small_worldness__dtf_alpha,Связность · small worldness · dtf alpha,0.005643486635542848,-0.011385248464860944,0.005643486635542848,0.011385248464860944
+conn__small_worldness__dtf_beta,Связность · small worldness · dtf beta,-0.02813417628305915,-0.0007664850692194396,0.02813417628305915,0.0007664850692194396
+conn__small_worldness__dtf_delta,Связность · small worldness · dtf delta,-0.0035859400930089184,0.03611322849253522,0.0035859400930089184,0.03611322849253522
+conn__small_worldness__dtf_theta,Связность · small worldness · dtf theta,-0.0183241444263764,-0.0020271352325952857,0.0183241444263764,0.0020271352325952857
+conn__small_worldness__imcoh_alpha,Связность · small worldness · imcoh alpha,0.0212994831382751,-0.042752814186145814,0.0212994831382751,0.042752814186145814
+conn__small_worldness__imcoh_beta,Связность · small worldness · imcoh beta,-0.0028721637362471575,-0.01707578185778225,0.0028721637362471575,0.01707578185778225
+conn__small_worldness__imcoh_delta,Связность · small worldness · imcoh delta,0.01621761818825935,-0.002385818552001054,0.01621761818825935,0.002385818552001054
+conn__small_worldness__imcoh_theta,Связность · small worldness · imcoh theta,0.011751718160896691,0.0063913072004601395,0.011751718160896691,0.0063913072004601395
+conn__small_worldness__pdc_alpha,Связность · small worldness · pdc alpha,0.009423754510119675,-0.039855077468665345,0.009423754510119675,0.039855077468665345
+conn__small_worldness__pdc_beta,Связность · small worldness · pdc beta,0.0016666327546668417,-0.03408619827228654,0.0016666327546668417,0.03408619827228654
+conn__small_worldness__pdc_delta,Связность · small worldness · pdc delta,-0.013976360251030068,-0.023989433320108205,0.013976360251030068,0.023989433320108205
+conn__small_worldness__pdc_theta,Связность · small worldness · pdc theta,-0.0004101528852573144,-0.05686791433193637,0.0004101528852573144,0.05686791433193637
+conn__small_worldness__plv_alpha,Связность · small worldness · plv alpha,0.03552776835550464,0.0014606061381970382,0.03552776835550464,0.0014606061381970382
+conn__small_worldness__plv_beta,Связность · small worldness · plv beta,0.004635430537803265,0.021946165167415516,0.004635430537803265,0.021946165167415516
+conn__small_worldness__plv_delta,Связность · small worldness · plv delta,-0.0002324432710909073,0.05622816424513162,0.0002324432710909073,0.05622816424513162
+conn__small_worldness__plv_theta,Связность · small worldness · plv theta,0.03371801569518817,0.0036792209680383253,0.03371801569518817,0.0036792209680383253
+conn__small_worldness__wpli_alpha,Связность · small worldness · wpli alpha,0.002873698581067242,-0.02197036716201639,0.002873698581067242,0.02197036716201639
+conn__small_worldness__wpli_beta,Связность · small worldness · wpli beta,0.008365506688395103,-0.017034470904131065,0.008365506688395103,0.017034470904131065
+conn__small_worldness__wpli_delta,Связность · small worldness · wpli delta,0.007901084983500216,-0.03760137293105859,0.007901084983500216,0.03760137293105859
+conn__small_worldness__wpli_theta,Связность · small worldness · wpli theta,-0.010516561184160498,0.022602463140736412,0.010516561184160498,0.022602463140736412
+conn__hub_z_max__coh_alpha,Связность · hub z max · coh alpha,0.026556501274681007,-0.05044103209661531,0.026556501274681007,0.05044103209661531
+conn__hub_z_max__coh_beta,Связность · hub z max · coh beta,0.03693279275496352,-0.055607069756199966,0.03693279275496352,0.055607069756199966
+conn__hub_z_max__coh_delta,Связность · hub z max · coh delta,0.04515443065912604,0.030711621749835643,0.04515443065912604,0.030711621749835643
+conn__hub_z_max__coh_theta,Связность · hub z max · coh theta,-0.01891047364953772,-0.02825529094614773,0.01891047364953772,0.02825529094614773
+conn__hub_z_max__dtf_alpha,Связность · hub z max · dtf alpha,0.007402242704619095,0.006027909494272533,0.007402242704619095,0.006027909494272533
+conn__hub_z_max__dtf_beta,Связность · hub z max · dtf beta,-0.01246878975054895,-0.009372778803346124,0.01246878975054895,0.009372778803346124
+conn__hub_z_max__dtf_delta,Связность · hub z max · dtf delta,-0.02850421105269229,-0.022638289752204555,0.02850421105269229,0.022638289752204555
+conn__hub_z_max__dtf_theta,Связность · hub z max · dtf theta,0.0018534983495337904,-0.003934946930626071,0.0018534983495337904,0.003934946930626071
+conn__hub_z_max__imcoh_alpha,Связность · hub z max · imcoh alpha,-0.02558468992566837,0.038922138077451096,0.02558468992566837,0.038922138077451096
+conn__hub_z_max__imcoh_beta,Связность · hub z max · imcoh beta,5.659984388972036e-05,0.011346485150383766,5.659984388972036e-05,0.011346485150383766
+conn__hub_z_max__imcoh_delta,Связность · hub z max · imcoh delta,-0.011918560416759226,-0.0148104341450201,0.011918560416759226,0.0148104341450201
+conn__hub_z_max__imcoh_theta,Связность · hub z max · imcoh theta,-0.012466282838808943,-0.01097876023609539,0.012466282838808943,0.01097876023609539
+conn__hub_z_max__pdc_alpha,Связность · hub z max · pdc alpha,-0.008717520713502782,0.051251942704526,0.008717520713502782,0.051251942704526
+conn__hub_z_max__pdc_beta,Связность · hub z max · pdc beta,-0.00439036268925015,0.05363521041424819,0.00439036268925015,0.05363521041424819
+conn__hub_z_max__pdc_delta,Связность · hub z max · pdc delta,0.001390815009518811,0.028109915458098378,0.001390815009518811,0.028109915458098378
+conn__hub_z_max__pdc_theta,Связность · hub z max · pdc theta,-0.016254839714516852,0.05687357012143562,0.016254839714516852,0.05687357012143562
+conn__hub_z_max__plv_alpha,Связность · hub z max · plv alpha,0.03887945865380333,-0.03884801552786717,0.03887945865380333,0.03884801552786717
+conn__hub_z_max__plv_beta,Связность · hub z max · plv beta,0.04869438144220558,-0.042012613796153245,0.04869438144220558,0.042012613796153245
+conn__hub_z_max__plv_delta,Связность · hub z max · plv delta,0.031742947538351655,-0.02264817497052653,0.031742947538351655,0.02264817497052653
+conn__hub_z_max__plv_theta,Связность · hub z max · plv theta,0.00768627755025442,-0.02666666548966823,0.00768627755025442,0.02666666548966823
+conn__hub_z_max__wpli_alpha,Связность · hub z max · wpli alpha,0.011419553446430416,0.016124149969772957,0.011419553446430416,0.016124149969772957
+conn__hub_z_max__wpli_beta,Связность · hub z max · wpli beta,0.03198898978674081,-0.01161240640440323,0.03198898978674081,0.01161240640440323
+conn__hub_z_max__wpli_delta,Связность · hub z max · wpli delta,-0.008557184149875125,0.006498163524764955,0.008557184149875125,0.006498163524764955
+conn__hub_z_max__wpli_theta,Связность · hub z max · wpli theta,-0.008293678247433087,-0.005278843780813022,0.008293678247433087,0.005278843780813022
+conn__n_hubs__coh_alpha,Связность · n hubs · coh alpha,0.00279718447205375,-0.027060600038773426,0.00279718447205375,0.027060600038773426
+conn__n_hubs__coh_beta,Связность · n hubs · coh beta,0.03848739679841179,-0.04899019029084167,0.03848739679841179,0.04899019029084167
+conn__n_hubs__coh_delta,Связность · n hubs · coh delta,0.047832191545790305,0.015650174969986646,0.047832191545790305,0.015650174969986646
+conn__n_hubs__coh_theta,Связность · n hubs · coh theta,-0.010183530564368406,-0.0249201499135994,0.010183530564368406,0.0249201499135994
+conn__n_hubs__dtf_alpha,Связность · n hubs · dtf alpha,-0.0031353389017334883,0.03104553875378832,0.0031353389017334883,0.03104553875378832
+conn__n_hubs__dtf_beta,Связность · n hubs · dtf beta,0.00044327864862311715,-0.0055983813105602255,0.00044327864862311715,0.0055983813105602255
+conn__n_hubs__dtf_delta,Связность · n hubs · dtf delta,-0.00569826259198848,0.02184697657180613,0.00569826259198848,0.02184697657180613
+conn__n_hubs__dtf_theta,Связность · n hubs · dtf theta,0.01494803413538407,-0.005213673049576825,0.01494803413538407,0.005213673049576825
+conn__n_hubs__imcoh_alpha,Связность · n hubs · imcoh alpha,-0.025216231976340372,0.04149958825249246,0.025216231976340372,0.04149958825249246
+conn__n_hubs__imcoh_beta,Связность · n hubs · imcoh beta,0.012911475420820115,-0.009542904071326143,0.012911475420820115,0.009542904071326143
+conn__n_hubs__imcoh_delta,Связность · n hubs · imcoh delta,-0.0008613082564383842,0.002692680949835153,0.0008613082564383842,0.002692680949835153
+conn__n_hubs__imcoh_theta,Связность · n hubs · imcoh theta,-0.0007002487600213743,-0.03321204172752869,0.0007002487600213743,0.03321204172752869
+conn__n_hubs__pdc_alpha,Связность · n hubs · pdc alpha,0.008180041016281748,0.018251796909035917,0.008180041016281748,0.018251796909035917
+conn__n_hubs__pdc_beta,Связность · n hubs · pdc beta,0.008355215263871136,0.028501230741492425,0.008355215263871136,0.028501230741492425
+conn__n_hubs__pdc_delta,Связность · n hubs · pdc delta,-0.017976353997420452,0.007736912900191055,0.017976353997420452,0.007736912900191055
+conn__n_hubs__pdc_theta,Связность · n hubs · pdc theta,0.0059676335092469605,0.03207902324952473,0.0059676335092469605,0.03207902324952473
+conn__n_hubs__plv_alpha,Связность · n hubs · plv alpha,0.016486884532351226,-0.0190905545083508,0.016486884532351226,0.0190905545083508
+conn__n_hubs__plv_beta,Связность · n hubs · plv beta,0.02213956743736519,-0.024601907829921832,0.02213956743736519,0.024601907829921832
+conn__n_hubs__plv_delta,Связность · n hubs · plv delta,0.02921352966172084,0.013500441862689823,0.02921352966172084,0.013500441862689823
+conn__n_hubs__plv_theta,Связность · n hubs · plv theta,0.008639423264185606,-0.003188337211042254,0.008639423264185606,0.003188337211042254
+conn__n_hubs__wpli_alpha,Связность · n hubs · wpli alpha,0.02101586846012298,0.015822743916181457,0.02101586846012298,0.015822743916181457
+conn__n_hubs__wpli_beta,Связность · n hubs · wpli beta,0.026600733596786195,-0.018267190104366598,0.026600733596786195,0.018267190104366598
+conn__n_hubs__wpli_delta,Связность · n hubs · wpli delta,0.013435753802825646,0.022092818003824215,0.013435753802825646,0.022092818003824215
+conn__n_hubs__wpli_theta,Связность · n hubs · wpli theta,0.0091871475322762,-0.019148994037507562,0.0091871475322762,0.019148994037507562
+conn__asymmetry__coh_alpha,Связность · asymmetry · coh alpha,0.0,0.0,0.0,0.0
+conn__asymmetry__coh_beta,Связность · asymmetry · coh beta,0.0,0.0,0.0,0.0
+conn__asymmetry__coh_delta,Связность · asymmetry · coh delta,0.0,0.0,0.0,0.0
+conn__asymmetry__coh_theta,Связность · asymmetry · coh theta,0.0,0.0,0.0,0.0
+conn__asymmetry__dtf_alpha,Связность · asymmetry · dtf alpha,0.010726930988043467,0.03280357734174828,0.010726930988043467,0.03280357734174828
+conn__asymmetry__dtf_beta,Связность · asymmetry · dtf beta,0.00837087682094786,0.02608735215508454,0.00837087682094786,0.02608735215508454
+conn__asymmetry__dtf_delta,Связность · asymmetry · dtf delta,0.013961389600849167,0.026724417308461323,0.013961389600849167,0.026724417308461323
+conn__asymmetry__dtf_theta,Связность · asymmetry · dtf theta,0.009171003946705482,0.01742913909784499,0.009171003946705482,0.01742913909784499
+conn__asymmetry__imcoh_alpha,Связность · asymmetry · imcoh alpha,0.0,0.0,0.0,0.0
+conn__asymmetry__imcoh_beta,Связность · asymmetry · imcoh beta,0.0,0.0,0.0,0.0
+conn__asymmetry__imcoh_delta,Связность · asymmetry · imcoh delta,0.0,0.0,0.0,0.0
+conn__asymmetry__imcoh_theta,Связность · asymmetry · imcoh theta,0.0,0.0,0.0,0.0
+conn__asymmetry__pdc_alpha,Связность · asymmetry · pdc alpha,0.015338402012573731,0.06214400758051622,0.015338402012573731,0.06214400758051622
+conn__asymmetry__pdc_beta,Связность · asymmetry · pdc beta,0.010925715089641968,0.07467073849922197,0.010925715089641968,0.07467073849922197
+conn__asymmetry__pdc_delta,Связность · asymmetry · pdc delta,0.04116307073820504,0.04084779343821501,0.04116307073820504,0.04084779343821501
+conn__asymmetry__pdc_theta,Связность · asymmetry · pdc theta,0.026286741015717655,0.05316066188872599,0.026286741015717655,0.05316066188872599
+conn__asymmetry__plv_alpha,Связность · asymmetry · plv alpha,0.0,0.0,0.0,0.0
+conn__asymmetry__plv_beta,Связность · asymmetry · plv beta,0.0,0.0,0.0,0.0
+conn__asymmetry__plv_delta,Связность · asymmetry · plv delta,0.0,0.0,0.0,0.0
+conn__asymmetry__plv_theta,Связность · asymmetry · plv theta,0.0,0.0,0.0,0.0
+conn__asymmetry__wpli_alpha,Связность · asymmetry · wpli alpha,0.0,0.0,0.0,0.0
+conn__asymmetry__wpli_beta,Связность · asymmetry · wpli beta,0.0,0.0,0.0,0.0
+conn__asymmetry__wpli_delta,Связность · asymmetry · wpli delta,0.0,0.0,0.0,0.0
+conn__asymmetry__wpli_theta,Связность · asymmetry · wpli theta,0.0,0.0,0.0,0.0
+conn__graph_density__coh_alpha,Связность · Графовые метрики density · coh alpha,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__coh_beta,Связность · Графовые метрики density · coh beta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__coh_delta,Связность · Графовые метрики density · coh delta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__coh_theta,Связность · Графовые метрики density · coh theta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__dtf_alpha,Связность · Графовые метрики density · dtf alpha,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__dtf_beta,Связность · Графовые метрики density · dtf beta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__dtf_delta,Связность · Графовые метрики density · dtf delta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__dtf_theta,Связность · Графовые метрики density · dtf theta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__imcoh_alpha,Связность · Графовые метрики density · imcoh alpha,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__imcoh_beta,Связность · Графовые метрики density · imcoh beta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__imcoh_delta,Связность · Графовые метрики density · imcoh delta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__imcoh_theta,Связность · Графовые метрики density · imcoh theta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__pdc_alpha,Связность · Графовые метрики density · pdc alpha,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__pdc_beta,Связность · Графовые метрики density · pdc beta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__pdc_delta,Связность · Графовые метрики density · pdc delta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__pdc_theta,Связность · Графовые метрики density · pdc theta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__plv_alpha,Связность · Графовые метрики density · plv alpha,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__plv_beta,Связность · Графовые метрики density · plv beta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__plv_delta,Связность · Графовые метрики density · plv delta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__plv_theta,Связность · Графовые метрики density · plv theta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__wpli_alpha,Связность · Графовые метрики density · wpli alpha,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__wpli_beta,Связность · Графовые метрики density · wpli beta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__wpli_delta,Связность · Графовые метрики density · wpli delta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+conn__graph_density__wpli_theta,Связность · Графовые метрики density · wpli theta,-2.2674667925301527e-05,-7.645633994827632e-05,2.2674667925301527e-05,7.645633994827632e-05
+event__peak_to_peak_uv,События · peak to peak uv,-0.09902457494723671,-0.09374980132767916,0.09902457494723671,0.09374980132767916
+event__auc_abs_uvs,События · auc abs uvs,-0.10578707570529795,-0.08504536635133068,0.10578707570529795,0.08504536635133068
+event__energy_uv2s,События · energy uv2s,-0.09531992615287552,-0.10352940468824223,0.09531992615287552,0.10352940468824223
+event__line_length_uv,События · line length uv,-0.07100600277589053,-0.09926376592226656,0.07100600277589053,0.09926376592226656
+event__slope_rise_uvs,События · slope rise uvs,-0.07197161514808081,-0.09951463900447166,0.07197161514808081,0.09951463900447166
+event__slope_fall_uvs,События · slope fall uvs,0.06645195373646709,0.1147085860942995,0.06645195373646709,0.1147085860942995
+event__sharpness_uv,События · sharpness uv,-0.0694860193675602,-0.10859008827287658,0.0694860193675602,0.10859008827287658
+event__z_peak,"Пик события, z",0.03984693809774293,0.01593672765973509,0.03984693809774293,0.01593672765973509
+event__slow_peak_uv,События · slow peak uv,-0.10488398798496361,-0.08180219705826879,0.10488398798496361,0.08180219705826879
+event__spike_to_slow_ratio,События · spike to slow ratio,-0.016457835837759803,-0.025522907700907385,0.016457835837759803,0.025522907700907385
+event__n_involved_ch,События · n involved ch,-0.024162071724368385,-0.027613301797102287,0.024162071724368385,0.027613301797102287
+event__lr_index,События · lr index,-0.0061276585056438265,-0.019676299684431593,0.0061276585056438265,0.019676299684431593
+event__spread_rois,События · spread rois,-0.017440520736256807,-0.0016979693663760468,0.017440520736256807,0.0016979693663760468
+event__propagation_ms,"Распространение, мс",-0.028195596935780786,-0.04220638318960353,0.028195596935780786,0.04220638318960353
